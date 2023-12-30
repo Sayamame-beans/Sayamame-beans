@@ -1,4 +1,7 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sayamame-beans&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Sayamame-beans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayamame-beans&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+プロフィール的なものは[こちら](https://sayamame-beans.github.io/profile/)
 
 <!--
 **Sayamame-beans/Sayamame-beans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
